@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69ac4173-b611-4f92-8d93-70f0243df360" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/.local/share/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Assert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/.local/share/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Exceptions/AssertionException.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/efa4aac1e75647fa93cd1c50953abb358bb400/88/c8e6909e/Predicate`1.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2eTJ1xLNUB04hJp85EM65UeKKIR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "087cbb68-45f7-453a-9dcf-d99df9c4cdcf.executor": "Debug",
+    "2625f4e5-48a1-43aa-8d04-7f1803ab18a2.executor": "Debug",
+    "3a505590-bb0e-4647-9eee-d1dcac73b424.executor": "Debug",
+    "7e974114-9ba1-4f50-ad04-29c1d7e6ba71.executor": "Debug",
+    "9b0ba997-2dae-42c0-9bd2-458261f1f14d.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "af3a2a46-9acf-49c8-94b1-00a073dbb5f4.executor": "Debug",
+    "b2cc3b0f-caa1-46e8-aae3-c25a964acb14.executor": "Run",
+    "b5308b66-ca32-4a40-a113-dfe6bd8d6a15.executor": "Debug",
+    "deb9a626-a421-4555-890d-335ebba4ae40.executor": "Run",
+    "e933af50-ec29-470b-a30b-beeb7dfcc922.executor": "Debug",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/ruslan/Library/Application Support/JetBrains/Rider2023.3/resharper-host/DecompilerCache",
+      "/Users/ruslan/Library/Application Support/JetBrains/Rider2023.3/resharper-host/SourcesCache",
+      "/Users/ruslan/.local/share/Symbols/src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="b2cc3b0f-caa1-46e8-aae3-c25a964acb14" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69ac4173-b611-4f92-8d93-70f0243df360" name="Changes" comment="" />
+      <created>1711922422808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711922422808</updated>
+      <workItem from="1711922423955" duration="2685000" />
+      <workItem from="1712241699485" duration="784000" />
+      <workItem from="1712242498436" duration="638000" />
+      <workItem from="1712243605867" duration="412000" />
+      <workItem from="1712244029072" duration="722000" />
+      <workItem from="1712250250589" duration="8575000" />
+      <workItem from="1712258848591" duration="2032000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Task1.Tests/UtilitiesTests.cs</url>
+          <line>125</line>
+          <properties documentPath="$PROJECT_DIR$/Task1.Tests/UtilitiesTests.cs" initialLine="125" containingFunctionPresentation="Method 'IndexOf_EmptyArray_ReturnsMinusOne'">
+            <startOffsets>
+              <option value="3789" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3871" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

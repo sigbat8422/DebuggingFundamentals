@@ -1,0 +1,9 @@
+/Users/ruslan/Downloads/Debugging Fundamentals/Task1/bin/Debug/netcoreapp3.1/Task1.deps.json
+/Users/ruslan/Downloads/Debugging Fundamentals/Task1/bin/Debug/netcoreapp3.1/Task1.dll
+/Users/ruslan/Downloads/Debugging Fundamentals/Task1/bin/Debug/netcoreapp3.1/Task1.pdb
+/Users/ruslan/Downloads/Debugging Fundamentals/Task1/obj/Debug/netcoreapp3.1/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslan/Downloads/Debugging Fundamentals/Task1/obj/Debug/netcoreapp3.1/Task1.AssemblyInfoInputs.cache
+/Users/ruslan/Downloads/Debugging Fundamentals/Task1/obj/Debug/netcoreapp3.1/Task1.AssemblyInfo.cs
+/Users/ruslan/Downloads/Debugging Fundamentals/Task1/obj/Debug/netcoreapp3.1/Task1.csproj.CoreCompileInputs.cache
+/Users/ruslan/Downloads/Debugging Fundamentals/Task1/obj/Debug/netcoreapp3.1/Task1.dll
+/Users/ruslan/Downloads/Debugging Fundamentals/Task1/obj/Debug/netcoreapp3.1/Task1.pdb
